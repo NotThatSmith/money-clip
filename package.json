@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@std/esm": "0.25.2",
-    "microbundle": "0.4.4",
+    "microbundle": "^0.6.0",
     "tape": "4.9.0"
   },
   "files": [
