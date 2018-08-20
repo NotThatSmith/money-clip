@@ -1,4 +1,4 @@
-import * as idbKeyVal from './idb-keyval'
+var idbKeyVal =  require('./idb-keyval')
 
 // pass-through exports
 export const { del, clear, keys } = idbKeyVal
